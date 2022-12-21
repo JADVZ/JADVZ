@@ -2,19 +2,24 @@
 
 main {
     color:rgb(255, 255, 255);
-    background-color: black;
+    background-color: rgb(97, 97, 97);
     border: 2px solid #ffffff;
+    max-width: 500px;
  }
-
+form { margin: 10px;}
  p {
 margin:10px;
  }
-
+h1 {margin:10px;}
  #varg {
    height: auto;
-   width: 465px;
+   max-width: 465px;
  }
-
+header {color: azure;}
  body {
-  background-color: rgb(66, 66, 243);
+  background-color: rgb(255, 255, 255);
  }
+#Nissan 
+{max-width: 500px;
+height: auto;}
+ #bflix {color: azure;}
